@@ -18,7 +18,7 @@ var prettyReporter = new PrettyReporter({
   
 });
 exports.config = {
-  specs:['spec1.js','spec2.js','spec3.js','spec6.js','spec7.js','spec8.js','spec9.js','spec10.js','spec14.js','spec15.js','spec16.js','spec19.js','spec20.js','spec21.js','spec22.js','spec23.js','spec24..js','spec25.js','spec26.js','spec27.js','spec28.js','spec29.js','spec30.js','spec31.js','spec32.js','spec33.js','spec34.js'],
+  specs:['usermanagement.js'],
    capabilities: {
    browserName:'chrome',
    //browserName: 'firefox',
